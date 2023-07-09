@@ -3,7 +3,7 @@ title: test
 date: 2023-07-09T15:55:41.231Z
 eyecatch: public/felix_1116のコピー.png
 categories:
-  - test
+  - news
 slug: test
 draft: true
 ---
