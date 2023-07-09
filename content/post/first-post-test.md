@@ -5,7 +5,7 @@ eyecatch: public/felix_1116のコピー.png
 categories:
   - test
 slug: test
-draft: true
+draft: false
 ---
 This is a test page.
 
