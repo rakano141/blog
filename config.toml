@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 languageCode = "ja"
-title = 'rakano blog'
+title = "YSMLOG"
 theme = "mainroad"
 paginate = 5
 googleAnalytics = "UA-XXX-XXX"
