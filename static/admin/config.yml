@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: blog
+  repo: rakano141/blog
   branch: main
 media_folder: "static/images"
 public_folder: "public"
