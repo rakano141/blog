@@ -30,7 +30,7 @@ widgets = ["recent", "social", "categories"]
 recent_num = 5
 
 [Params.widgets.social]
-twitter = "ysmlife1"
+twitter = "la_carno"
 
 [[Menus.main]]
 Name = "Top"
